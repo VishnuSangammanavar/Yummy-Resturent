@@ -200,7 +200,7 @@ html {
 }
 
 .hero .hero-right img {
-    width: 60%;
+    width: 100%;
 }
 
 /* ----- About Section ----- */
@@ -790,13 +790,6 @@ footer .copyright p {
     padding-top: 30px;
 } 
 /* ----- Responsiv ----- */
-
-@media (max-width: 922px) {
-    .hero .hero-right img {
-        width: 80%;
-    }
-}
-
 @media (max-width: 780px) {
 
     .nav-bar ul {
@@ -850,7 +843,7 @@ footer .copyright p {
     }
 
     .hero .hero-right img {
-        width: 80%;
+        width: 50%;
     }
 
     .about .row .left {
