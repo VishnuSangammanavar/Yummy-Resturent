@@ -883,9 +883,12 @@ footer .copyright p {
         flex-basis: 100%;
     }
 
+    .book-table .forms {
+        margin-right: 10%;
+    }        
+    
     .book-table .forms form {
         display: flex;
-        margin-right: -10%;
         flex-direction: column;
     }
 
