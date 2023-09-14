@@ -790,6 +790,13 @@ footer .copyright p {
     padding-top: 30px;
 } 
 /* ----- Responsiv ----- */
+
+@media (max-width: 922px) {
+    .hero .hero-right img {
+        width: 80%;
+    }
+}
+
 @media (max-width: 780px) {
 
     .nav-bar ul {
