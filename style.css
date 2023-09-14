@@ -200,10 +200,10 @@ html {
 }
 
 .hero .hero-right img {
-    width: 80%;
+    width: 60%;
 }
 
-@media (max-width: 922px) {
+@media (max-width: 780px) {
     .hero .hero-right img {
         width: 80%;
     }
