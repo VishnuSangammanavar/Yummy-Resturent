@@ -200,12 +200,12 @@ html {
 }
 
 .hero .hero-right img {
-    width: 60%;
+    width: 100%;
 }
 
 @media (max-width: 780px) {
     .hero .hero-right img {
-        width: 80%;
+        width: 100%;
     }
 }
 
@@ -885,7 +885,7 @@ footer .copyright p {
 
     .book-table .forms form {
         display: flex;
-        margin-right: 10%;
+        margin-right: -10%;
         flex-direction: column;
     }
 
