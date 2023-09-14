@@ -880,7 +880,8 @@ footer .copyright p {
     }
 
     .book-table .picture, .book-table .forms {
-        flex-basis: 90%;
+        padding: 80px 10px;
+        flex-basis: 100%;
     }     
     
     .book-table .forms form {
