@@ -199,8 +199,16 @@ html {
     color: var(--main-color);
 }
 
-.hero .hero-right img {
-    width: 100%;
+@media (min-width: 1024px) {
+    .hero .hero-right img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 922px) {
+    .hero .hero-right img {
+        width: 50%;
+    }
 }
 
 /* ----- About Section ----- */
@@ -840,10 +848,6 @@ footer .copyright p {
 
     .hero .hero-right {
         flex-basis: 100%;
-    }
-
-    .hero .hero-right img {
-        width: 50%;
     }
 
     .about .row .left {
