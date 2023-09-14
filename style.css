@@ -884,7 +884,7 @@ footer .copyright p {
     }
 
     .book-table .forms {
-        margin-right: 10%;
+        margin-right: -10%;
     }        
     
     .book-table .forms form {
