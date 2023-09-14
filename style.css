@@ -199,12 +199,6 @@ html {
     color: var(--main-color);
 }
 
-@media (min-width: 1024px) {
-    .hero .hero-right img {
-        width: 100%;
-    }
-}
-
 @media (max-width: 922px) {
     .hero .hero-right img {
         width: 50%;
